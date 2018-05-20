@@ -6,6 +6,8 @@
 
     ng generate @angular/material:material-nav --name=main-nav  ---  Creates an Navbar Angular Component
 
+    ng generate @angular/material:material-table --name=data-table  ---  Creates an data table Angular Component
+
 ### References:
 
 #### Button:
